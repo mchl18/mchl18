@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mchl18
 - 👀 I’m interested in all things web dev.
-- 💞️ I’m looking to collaborate on projects which enable devs.
+- 💞️ I’m looking to collaborate on open source projects of any kind.
 - 📫 How to reach me: mgerullis@pm.me

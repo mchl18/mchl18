@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mchl18
 - 👀 I build tools. Deployment, monitoring, logging, all that stuff with a nice UI? Call me.
+- 🔑 I have a passion for encryption, obfuscation, security and deterrence.
 - 💞️ I’m looking to collaborate on open source projects of any kind.
 - 📫 How to reach me: mgerullis@pm.me
